@@ -1,38 +1,40 @@
-🛍️ Comércio Fácil
-Sistema de Gestão Simplificada para Pequenos Negócios
+🍽️ Sistema de Solicitação de Alimentos 
+Projeto desenvolvimento
 
-📘 Descrição
-O Comércio Fácil é um sistema desenvolvido em Python voltado para pequenos empreendedores que precisam gerenciar estoque, pedidos e agendamentos de forma fácil e acessível.
-O projeto busca aproximar a tecnologia da realidade dos pequenos negócios locais, ajudando-os a se organizarem e a aumentarem sua eficiência.
+📌 Objetivo do Projeto
+Desenvolver um sistema onde o usuário possa:
+• 	cadrastar alimentos para doação
+• 	adiconar os alimentos desejados
+• 	Confirmar a solicitação
+• 	Acompanhar o status da entrega
+• 	Acompanhar pedidos de ajuda
 
-🚀 Funcionalidades
-Cadastro e controle de produtos
-Registro de pedidos e agendamentos
-Controle de estoque em tempo real
-Relatórios simples de vendas e agendamentos
-Interface intuitiva e responsiva
-
-🧠 Tecnologias Utilizadas
-Linguagem: Python
-Frameworks: Flask ou Django (a definir)
-Banco de Dados: SQLite ou MySQL
-Versionamento: Git e GitHub
-Organização: Trello
 
 👥 Equipe
-Scrum Master: [Francisco Fernando]
-Product Owner: [Thiago de Souza Silva]
-Developers: [Brendo Temistocles], [Edimar de Lima Freitas], [Fábio de Aviz Alves]
+## 🗂️ Quadro Kanban
 
-🗂️ Estrutura do Repositório
-🗓️ Organização do Projeto
-Tarefas e Sprints: Trello
-Controle de versão: GitHub
-Comunicação: Grupo do WhatsApp
-Reuniões: Google Meet semanais
+| Tarefa                                         | Responsável | Status   |
+|-----------------------------------------------|-------------|----------|
+| Criar Formulário de cadrastro de doação       | Fernando    | A Fazer  |
+| Criar Banco de dados das doações              | Thiago      | A Fazer  |
+| Tela de login de adiministrador               | Fábio       | A Fazer  |
+| Montar a página inicial 'Com ajuda'           | Breno       | A Fazer  |
+| Conficurar painel de  doações                 | Edimar      | A Fazer  |
 
-📈 Métricas de Sucesso
-Sistema funcional online
-Repositório ativo no GitHub
-Tarefas atualizadas no Trello
-Feedback positivo de testes com usuários
+
+🧩 Histórias de Usuário
+Como usuário, desejo visualizar os alimentos disponíveis.
+Como usuário, desejo selecionar os alimentos desejados.
+Como usuário, desejo visualizar os alimentos que selecionei.
+Como usuário, desejo confirmar minha solicitação.
+Como usuário, desejo visualizar o status da minha solicitação.
+
+
+## 📦 Entregáveis
+
+| Entregável                          | Status     |
+|------------------------------------|------------|
+| Tela com alimentos disponíveis     | Pendente   |
+| Tela com alimentos selecionados    | Pendente   |
+| Tela com solicitação confirmada    | Pendente   |
+| Tela com status da solicitação     | Pendente   |
